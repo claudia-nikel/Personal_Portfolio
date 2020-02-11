@@ -1,1 +1,3 @@
-# Personal_Portfolio
+# Claudia Nikel's Personal Portfolio
+
+## Projects
