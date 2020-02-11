@@ -7,6 +7,8 @@ App that uses flight data to show the worst airport connections for delayed and 
 ![ShinyApp](images/ShinyApp.png)
 
 ### 2. 3D Drone Modeling
+Created 3D models and collaborative maps using a drone and software platform
 ![3Dmodel](images/3Dmodel.png)
 ### 3. 2D Drone Mapping
+Utilized drone imagery to create vegetation and elevation maps of buildings all of which can be used in the agriculture, construction, surveying and inspection industries 
 ![2Dmaps](images/3Dmaps.jpeg)
