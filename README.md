@@ -3,5 +3,6 @@
 ## Projects
 
 ### Shiny App
-![Test Image 1](images/ShinyApp.png)
+Shiny App that uses flight data to show the worst airport connections for delayed and cancelled flights geographically.
+![ShinyApp](images/ShinyApp.png)
 
