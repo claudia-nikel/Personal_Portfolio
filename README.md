@@ -7,6 +7,5 @@ App that uses flight data to show the worst airport connections for delayed and 
 ![ShinyApp](images/ShinyApp.png)
 
 ### 2. 3D Drone Modeling
-
-
+![3Dmodel](images/3Dmodel.png)
 ### 3. 2D Drone Mapping
