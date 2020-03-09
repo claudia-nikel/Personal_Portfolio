@@ -2,7 +2,7 @@
 
 ## Projects
 
-### 2. Tableau Dashboard
+### 1. Tableau Dashboard
 An interactive Tableau Dashboard created using a Urban Social Disorder dataset from the Peace Research Institute Oslo (PRIO) which contains information on urban social disorder events that occur in capitals and other major cities of the developing world between 1960 and 2014. <br/>
 
 ![Tableau Dashboard](Tableau_dashboard.png)
