@@ -7,7 +7,7 @@ An interactive Tableau Dashboard created using a Urban Social Disorder dataset f
 
 ![Tableau_dashboard](images/Tableau_dashboard.png)
 
-Visit: https://public.tableau.com/profile/eva.nguyen#!/vizhome/551_project/Dashboard1 <br/>
+Visit: https://public.tableau.com/profile/eva.nguyen#!/vizhome/551_project/Dashboard1 and https://public.tableau.com/profile/eva.nguyen#!/vizhome/551_project/Dashboard2<br/>
 Co-collaborators: Eva Nguyen, Ja Cho
 
 ### 2. Shiny App
