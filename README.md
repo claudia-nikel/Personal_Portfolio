@@ -20,3 +20,6 @@ Created 3D models and collaborative maps using a drone and software platform
 ### 4. 2D Drone Mapping
 Utilized drone imagery to create vegetation and elevation maps of buildings all of which can be used in the agriculture, construction, surveying and inspection industries 
 ![2Dmaps](images/3Dmaps.jpeg)
+
+
+![Tableau_dashboard](Tableau_dashboard.png)
