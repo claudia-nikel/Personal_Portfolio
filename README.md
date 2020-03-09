@@ -5,7 +5,7 @@
 ### 1. Tableau Dashboard
 An interactive Tableau Dashboard created using a Urban Social Disorder dataset from the Peace Research Institute Oslo (PRIO) which contains information on urban social disorder events that occur in capitals and other major cities of the developing world between 1960 and 2014. <br/>
 
-![Tableau_dashboard](Tableau_dashboard.png)
+![](Tableau_dashboard.png)
 
 Visit: https://public.tableau.com/profile/eva.nguyen#!/vizhome/551_project/Dashboard1 <br/>
 Co-collaborators: Eva Nguyen, Ja Cho
@@ -22,4 +22,3 @@ Utilized drone imagery to create vegetation and elevation maps of buildings all 
 ![2Dmaps](images/3Dmaps.jpeg)
 
 
-![Tableau_dashboard](Tableau_dashboard.png)
