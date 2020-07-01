@@ -22,7 +22,7 @@ You can see from this graph that the model overfits the test data because the mo
 **Conclusion:**
 Because the images are of very low resolution that could be a cause for the misclassification and lower accuracy. As well using a higher number of epochs, say 100, would definitely give an improved result. The model was able to learn the training data, which is a good sign. To improve the results of the model on the test data, you could add more VGG blocks. However, increasing the number of epochs (the number of complete passes through the training dataset) and the number of VGG blocks requires more computer power and time. This model also shows overfitting at around 10-15 epochs. <br/> <br/>
 
-**Code can be found in the CNN_Image_Classification folder**
+**Code for the CNN can be found in the CNN_Image_Classification folder**
 
 
 ### 2. Tableau Dashboard
