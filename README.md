@@ -15,8 +15,7 @@ In general, models improve with more epochs of training, but only to a point and
 You can see from this graph that the model overfits the test data because the models performance on the training data (red line) decreases (so it improves) whereas on the test data (blue line) improves slightly but then increases (gets worse) around 10 epochs. <br/>
 ![CNN_classification_loss](images/CNN_classification_loss.png)
 
-
-<br/><br/>
+<br/>
 
 **Conclusion:**
 Because the images are of very low resolution that could be a cause for the misclassification and lower accuracy. As well using a higher number of epochs, say 100, would definitely give an improved result. The model was able to learn the training data, which is a good sign. To improve the results of the model on the test data, you could add more VGG blocks. However, increasing the number of epochs (the number of complete passes through the training dataset) and the number of VGG blocks requires more computer power and time. This model also shows overfitting at around 10-15 epochs.
