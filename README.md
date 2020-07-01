@@ -11,7 +11,7 @@ Visit: https://public.tableau.com/profile/eva.nguyen#!/vizhome/551_project/Dashb
 Co-collaborators: Eva Nguyen, Ja Cho
 
 ### 2. Shiny App
-App that uses flight data to show the worst airport connections for delayed and cancelled flights geographically. Switch between delayed and cancelled flights and use the slider to determine the cutoff for the number of flights. <br/>
+App that uses flight data to show the worst airport connections for delayed and cancelled flights in the USA geographically. Switch between delayed and cancelled flights and use the slider to determine the cutoff for the number of flights. Try the interactive web-version here: https://claudia-nikel.shinyapps.io/R_code/ <br/>
 ![ShinyApp](images/ShinyApp.png)
 
 ### 3. 3D Drone Modeling & 2D Drone Mapping
