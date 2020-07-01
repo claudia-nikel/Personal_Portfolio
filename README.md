@@ -4,6 +4,7 @@
 
 ### 1. CNN: Image Classification
 Created a convolutional neural network using the CIFAR-10 dataset to classify 32x32 colour images in 10 classes (airplanes, automobiles. birds, horses, trucks, etc). Each layer used the ReLU activation function and the He initilization and I used a 3-block VGG model for the CNN. I plotted the accuracy and cross-entropy loss for the model with increasing number of epochs. <br/><br/>
+<img src="images/CNN_images_for_classification.png" alt="drawing" width="200"/>
 ![CNN_images_for_classification](images/CNN_images_for_classification.png)
 
 
