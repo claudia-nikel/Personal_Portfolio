@@ -1,10 +1,13 @@
 ui <- shinyUI(pageWithSidebar(
-  headerPanel("Scatter Plot"),
+  headerPanel("What airports and flight connections to avoid?"),
   sidebarPanel(
-    textInput("cutoff", "Enter your cutoff parameter:", "12000"),
+    sliderInput("cutoff", "Cutoff parameter:", min=0, max=750, value=250),
   ),
   mainPanel(
-    plotOutput(outputId='main_plot')
+    tabsetPanel(
+      tabPanel("Delayed", plotOutput("delayed")),
+      tabPanel("Cancelled", plotOutput("cancelled"))
+      
+    )
   )
-)
-)
+))

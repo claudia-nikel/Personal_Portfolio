@@ -1,0 +1,13 @@
+name: R_code
+title: R_code
+username:
+account: claudia-nikel
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2523756
+bundleId: 3336704
+url: https://claudia-nikel.shinyapps.io/R_code/
+when: 1593563696.68161
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: R_code_for_ShinyApp.R
