@@ -32,7 +32,13 @@ Co-collaborators: Eva Nguyen, Ja Cho
 App that uses flight data to show the worst airport connections for delayed and cancelled flights in the USA geographically. Switch between delayed and cancelled flights and use the slider to determine the cutoff for the number of flights. Try the interactive web-version here: https://claudia-nikel.shinyapps.io/R_code/ <br/>
 ![ShinyApp](images/ShinyApp.png)
 
-### 4. 3D Drone Modeling & 2D Drone Mapping
+### 4. NASA Mars API
+An API to retrieve and visualize weather data from the last 7 Sols (Martian days) as recorded and updated daily by NASA's InSight Mars lander. InSight is located at Elysium Planitia, a flat surface near the equator of Mars. 
+<br/>
+Link to projects repository: https://github.com/claudia-nikel/maRs
+Co-collaborator: KT Hobbs
+
+### 5. 3D Drone Modeling & 2D Drone Mapping
 Created 3D models and collaborative maps using a drone and software platform
 ![3Dmodel](images/3Dmodel.png)
 
