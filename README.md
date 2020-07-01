@@ -40,7 +40,7 @@ App that uses flight data to show the worst airport connections for delayed and 
 ### 4. NASA Mars API
 An API to retrieve and visualize weather data from the last 7 Sols (Martian days) as recorded and updated daily by NASA's InSight Mars lander. InSight is located at Elysium Planitia, a flat surface near the equator of Mars. 
 <br/>
-Link to projects repository: https://github.com/claudia-nikel/maRs
+Link to projects repository: https://github.com/claudia-nikel/maRs <br/>
 Co-collaborator: KT Hobbs
 
 ### 5. 3D Drone Modeling & 2D Drone Mapping
