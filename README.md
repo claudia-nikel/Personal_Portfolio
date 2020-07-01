@@ -9,7 +9,7 @@ Created a convolutional neural network using the CIFAR-10 dataset to classify 32
 
 **Plot of the Accuracy:** 
 In general, models improve with more epochs of training, but only to a point and then they will start to plateau in accuracy as they converge. Originally I tried using 100 epochs but it wouldn't run on my computer. I decided to slowly increase the number of epochs and was able to run the model with 40 epochs. The red line represents the model's performance on the training dataset and the blue line represents the models performance on the test dataset. The accuracy on the test data is around 62%. <br/>
-![CNN_classification_accuracy](images/CNN_classification_accuracy.png)
+<img src="images/CNN_classification_accuracy.png" alt="CNN_classification_accuracy" width="400"/>
 
 <br/><br/>
 
