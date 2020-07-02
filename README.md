@@ -15,7 +15,7 @@ In general, models improve with more epochs of training, but only to a point and
 
 **Plot of the Cross Entropy Loss:**
 You can see from this graph that the model overfits the test data because the models performance on the training data (red line) decreases (so it improves) whereas on the test data (blue line) improves slightly but then increases (gets worse) around 10 epochs. <br/>
-<img src="images/CNN_classification_loss.png" alt="CNN_classification_loss" width="400"/>
+<p align="center"><img src="images/CNN_classification_loss.png" alt="CNN_classification_loss" width="400"/></p>
 
 <br/>
 
@@ -46,13 +46,13 @@ An API to retrieve and visualize weather data from the last 7 Sols (Martian days
 `marsAverage`: takes the saved output from the marsInfo() function and returns the average temperature, windspeed, and pressure for the last 7 Sols.
 
 `windspeed`: retrieves the inputted Sol's horizontal wind speed (m/s) from the summary table and visualizes it as a dial. The black bar is the average windspeed for the Sol, which corresponds to the black text. The green background is the sol range (min and max), and the red or green text below is represents a decrease or increase, respectively, relative to the previous sol's average. <br/>
-<img src="images/maRs_wind_speed.png" alt="maRs_temperature" width="200"/>
+<p align="center"><img src="images/maRs_wind_speed.png" alt="maRs_temperature" width="200"/></p>
 
 `pressure`: retrieves the inputted Sol's pressure (Pascal) from the summary table and visualizes it as a dial. The black bar is the average pressure for the Sol, which corresponds to the black text. The orange background is the sol range (min and max), and the red or green text below is represents a decrease or increase, respectively, relative to the previous sol's average. <br/>
-<img src="images/maRs_pressure.png" alt="maRs_pressure" width="200"/>
+<p align="center"><img src="images/maRs_pressure.png" alt="maRs_pressure" width="200"/></p>
 
 `temperature`: retrieves the inputted Sol's temperature (converted from Farhenheit to degrees Celsius) from the summary table and visualizes it as a dial. The black bar is the average temperature for the Sol, which corresponds to the black text. The blue background is the sol range (min and max), and the red or green text below is represents a decrease or increase, respectively, relative to the previous sol's average. <br/>
-<img src="images/maRs_temperature.png" alt="maRs_temperature" width="200"/>
+<p align="center"><img src="images/maRs_temperature.png" alt="maRs_temperature" width="200"/></p>
 
 
 Link to projects repository: https://github.com/claudia-nikel/maRs <br/>
