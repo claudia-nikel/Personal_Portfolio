@@ -61,8 +61,8 @@ Co-collaborator: KT Hobbs
 ### 5. 3D Drone Modeling & 2D Drone Mapping
 Created 3D models and collaborative maps using a drone and software platform
 ![3Dmodel](images/3Dmodel.png)
+<p align="center"><img src="images/3Dmodel.png" alt="3Dmodel" width="600"/></p>
 
 Utilized drone imagery to create vegetation and elevation maps of buildings all of which can be used in the agriculture, construction, surveying and inspection industries 
-![2Dmaps](images/3Dmaps.jpeg)
-<p align="center"><img src="images/3Dmaps.jpeg" alt="2Dmaps" width="400"/></p>
+<p align="center"><img src="images/3Dmaps.jpeg" alt="2Dmaps" width="600"/></p>
 
