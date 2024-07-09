@@ -66,6 +66,6 @@ Utilized drone imagery to create vegetation and elevation maps of buildings all 
 <p align="center"><img src="images/3Dmaps.jpeg" alt="2Dmaps" width="600"/></p>
 
 
-### 5. BarkBuddy React App
+### 6. BarkBuddy React App
 A personal dog dictionary application that allows users to add pictures and basic information about dogs they meet at the dog park.
 
